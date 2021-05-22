@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://shawngarner.dev/posts/my-first-post/</loc>
+    <loc>https://www.shawngarner.dev/posts/my-first-post/</loc>
     <lastmod>2021-05-22T00:12:52-05:00</lastmod>
   </url><url>
-    <loc>http://shawngarner.dev/posts/</loc>
+    <loc>https://www.shawngarner.dev/posts/</loc>
     <lastmod>2021-05-22T00:12:52-05:00</lastmod>
   </url><url>
-    <loc>http://shawngarner.dev/</loc>
+    <loc>https://www.shawngarner.dev/</loc>
     <lastmod>2021-05-22T00:12:52-05:00</lastmod>
   </url><url>
-    <loc>http://shawngarner.dev/categories/</loc>
+    <loc>https://www.shawngarner.dev/categories/</loc>
   </url><url>
-    <loc>http://shawngarner.dev/tags/</loc>
+    <loc>https://www.shawngarner.dev/tags/</loc>
   </url>
 </urlset>

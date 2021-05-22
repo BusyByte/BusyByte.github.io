@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Something a bit more personal</title>
-    <link>http://shawngarner.dev/categories/</link>
+    <link>https://www.shawngarner.dev/categories/</link>
     <description>Recent content in Categories on Something a bit more personal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://shawngarner.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.shawngarner.dev/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
