@@ -1,4 +1,4 @@
-baseURL = "https://www.shawngarner.dev/"
+baseURL = "https://blog.shawngarner.dev/"
 languageCode = "en-us"
 title = "Something a bit more personal"
 theme = "bootstrap4-blog"
