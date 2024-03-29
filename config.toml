@@ -1,4 +1,9 @@
 baseURL = "https://blog.shawngarner.dev/"
 languageCode = "en-us"
-title = "Something a bit more personal"
+title = "Shawn Garner's Software Development Blog"
 theme = "bootstrap4-blog"
+enableRobotsTXT = true
+
+[params]
+  # Site author
+  author = "Shawn Garner"
