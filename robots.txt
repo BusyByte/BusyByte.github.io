@@ -1,0 +1,3 @@
+Sitemap: https://blog.shawngarner.dev/sitemap.xml
+
+User-agent: *
